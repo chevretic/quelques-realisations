@@ -8,11 +8,11 @@ En voici quelques unes.
 
 ### Illustration vectorielle d'une coccinelle et d'une tulipe sur Illustrator
 
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea1.jpg)
+![Image](/img/rea1.jpg)
 
 ### Illustration d'une pochette de CD, Cindy Lauper, sur Illustrator
 
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea2.jpg)
+![Image](img/rea2.jpg)
 
 ## Logos et branding
 
