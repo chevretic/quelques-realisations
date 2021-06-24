@@ -1,40 +1,39 @@
-## Quelques réalisations
+# Quelques réalisations
 
+Au fil des années et de mes formations en production multimédia et en infographie, j'ai pu créer bien des documents ! Illustrations vectorielles, logos, mises en page et j'en passe !
+
+En voici quelques unes.
+
+## Illustrations vectorielles
+
+### Illustration vectorielle d'une coccinelle et d'une tulipe sur Illustrator
 
 ![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea1.jpg)
 
-You can use the [editor on GitHub](https://github.com/chevretic/quelques-realisations/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Illustration d'une pochette de CD, Cindy Lauper, sur Illustrator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea2.jpg)
 
-### Markdown
+## Logos et branding
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Logo et verso de carte de visite de Septra Magie et Voyance
 
-```markdown
-Syntax highlighted code block
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea5.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Logo du salon "Le plaisir de créer"
 
-- Bulleted
-- List
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea6.jpg)
 
-1. Numbered
-2. List
+### Proposition de rebranding
+Cette proposition de rebranding était destinée au service d'ortho-implant de la **clinique Le Mesnil**.
 
-**Bold** and _Italic_ and `Code` text
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea7.jpg)
 
-[Link](url) and ![Image](src)
-```
+## Mises en page
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Pour Patrimoine Trois-Rivières
 
-### Jekyll Themes
+**Patrimoine Trois-Rivières** est une organisation à but non lucratif, qui promeut la culture matérielle et l'histoire de la ville de Trois-Rivières. Pour cette organisation, j'ai conçu leur image de marque, des affiches, deux magazines et une brochure détaillant le contenu des conférences du colloque de l'Association des Archéologues du Québec.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chevretic/quelques-realisations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea4.jpg)
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea3.jpg)
