@@ -1,7 +1,7 @@
 ## Quelques réalisations
 
 
-![Image](/img/rea1.jpg)
+![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea1.jpg)
 
 You can use the [editor on GitHub](https://github.com/chevretic/quelques-realisations/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
