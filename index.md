@@ -12,22 +12,22 @@ En voici quelques unes.
 
 ### Illustration d'une pochette de CD, Cindy Lauper, sur Illustrator
 
-![Image](img/rea2.jpg)
+![Image](/img/rea2.jpg)
 
 ## Logos et branding
 
 ### Logo et verso de carte de visite de Septra Magie et Voyance
 
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea5.jpg)
+![Image](/img/rea5.jpg)
 
 ### Logo du salon "Le plaisir de créer"
 
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea6.jpg)
+![Image](/img/rea6.jpg)
 
 ### Proposition de rebranding
 Cette proposition de rebranding était destinée au service d'ortho-implant de la **clinique Le Mesnil**.
 
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea7.jpg)
+![Image](/img/rea7.jpg)
 
 ## Mises en page
 
@@ -35,5 +35,5 @@ Cette proposition de rebranding était destinée au service d'ortho-implant de l
 
 **Patrimoine Trois-Rivières** est une organisation à but non lucratif, qui promeut la culture matérielle et l'histoire de la ville de Trois-Rivières. Pour cette organisation, j'ai conçu leur image de marque, des affiches, deux magazines et une brochure détaillant le contenu des conférences du colloque de l'Association des Archéologues du Québec.
 
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea4.jpg)
-![Image](https://github.com/chevretic/quelques-realisations/blob/main/img/rea3.jpg)
+![Image](/img/rea4.jpg)
+![Image](/img/rea3.jpg)
