@@ -10,7 +10,7 @@ En voici quelques unes.
 
 ![Image](/img/rea1.jpg)
 
-### Illustration d'une pochette de CD, Cindy Lauper, sur Illustrator
+### Illustration d'une pochette de CD, Cyndi Lauper, sur Illustrator
 
 ![Image](/img/rea2.jpg)
 
